@@ -21,8 +21,9 @@ The following chart visualizes this relationship.
 ---
 
 ### Challenges and Difficulties Encountered
--For some reason I still am not able to discern, Excel will automatically sort numbers in the fields of charts, in a left to right format with no regard for the value of the actual number. 
+For some reason I still am not able to discern, Excel will automatically sort numbers in the fields of charts, in a left to right format with no regard for the value of the actual number. 
 I had to manually rearrange the "Goals" order in the second chart to properly display the results.
+
 ---
 
 ## Results
