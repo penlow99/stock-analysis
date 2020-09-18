@@ -5,7 +5,6 @@
 ### Purpose
 This project was designed to help Louise make informed decisions about Kickstarter campains in regard to theater productions.
 ---
----
 
 ## Analysis and Challenges
 
@@ -25,7 +24,7 @@ The following chart visualizes this relationship.
 For some reason I still am not able to discern, Excel will automatically sort numbers in the fields of charts, in a left to right format with no regard for the value of the actual number. 
 I had to manually rearrange the "Goals" order in the second chart to properly display the results.
 ---
----
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
